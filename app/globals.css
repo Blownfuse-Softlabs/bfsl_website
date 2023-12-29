@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .preserve-3D {
+        transform-style: preserve-3d;
+    }
+}
+
